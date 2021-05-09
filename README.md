@@ -2,14 +2,9 @@
 
 Ordinary Numbers
 
-time limit per test
-2 seconds
-memory limit per test
-256 megabytes
-input
-standard input
-output
-standard output
+time limit per test 2 seconds
+
+memory limit per test 256 megabytes
 
 Let's call a positive integer n ordinary if in the decimal notation all its digits are the same. For example, 1, 2 and 99 are ordinary numbers, but 719 and 2021 are not ordinary numbers.
 
